@@ -3,6 +3,7 @@
     "author": "LiamTheNinja5",
     "version": "0.0.1",
     "name": "DarkDyslexic",
+    "updater": "https://raw.githubusercontent.com/LiamTheNinja5/DarkDyslexic/refs/heads/main/Aliucord/DarkDyslexic.json",
     "transparency_mode": 0
   },
   "background": {},
