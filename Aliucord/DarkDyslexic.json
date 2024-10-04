@@ -1,0 +1,19 @@
+{
+  "manifest": {
+    "author": "LiamTheNinja5",
+    "version": "0.0.1",
+    "name": "DarkDyslexic",
+    "transparency_mode": 0
+  },
+  "background": {},
+  "simple_colors": {
+    "statusbar": -16777216,
+    "background": -16777216,
+    "background_secondary": -16777216
+  },
+  "colors": {},
+  "drawable_tints": {},
+  "fonts": {
+    "*": "https://github.com/antijingoist/opendyslexic/raw/refs/heads/master/compiled/OpenDyslexic-Regular.otf"
+  }
+}
